@@ -1,0 +1,155 @@
+/* container-section-1 Sart here */
+/* header-items */
+.container-section-1{
+    display: flex;
+    color: black;
+}
+.container-section-1 div{
+    border:0px;
+    padding:20px 20px;
+}
+.box{
+    flex:1;
+    padding: 30px 30px;
+}
+/* button for GET IN TOUCH */
+.button {
+    display: inline-block;
+    border-radius: 3px;
+    padding: 7px 12px;
+}
+
+/* button for Connect with  Pillar*/
+.button-1 {
+    display: inline-block;
+    border-radius: 3px;
+    padding: 7px 12px;
+    border-radius: 12px;
+    
+}
+/* container-section-1 End here */
+
+
+/* line-section start here */
+.line {
+    border: 0.5px solid black;
+}
+/* line-section Ends here */
+
+
+/* Menu Section-items start here */ 
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+}
+
+li {
+    float: left;
+  }
+  
+li a {
+    display: flex;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+}
+.container-2 {
+    display: flex;
+}
+/* Menu Section-items Ends here */ 
+
+
+/*  CSS container-1 start here */
+  .container-section-2{
+      display: flex;
+  }
+  /* Box-section-image */
+  .box-section-image{
+      background-color: black;
+  }
+  /* Box-section-text */
+  .box-section-text{
+      flex:1;
+      border:0px; 
+      background-color: black;
+      color:white;
+      padding: 30px 30px;
+}
+
+
+/* container-section-3*/
+  .container-section-3{
+      display: flex;
+      background-color: hsl(204, 86%, 53%);
+      color:white;
+      padding: 30px 30px;
+  }
+  
+/* CSS container-section-4 Start here */
+
+.container-section-4{
+    display: flex;
+    
+}
+
+/* Box-section-image-1 */
+.box-section-image-1{
+    background-color: white;
+}
+/* Box-section-text-1 */
+.box-section-text-1{
+    flex:1; 
+    background-color: white;
+    color:black;
+    padding: 50px 50px;
+}
+
+/* CSS  container-section-5 start here */
+.container-section-5{
+    display: flex;
+    padding: 50px 50px;
+}
+
+/* CSS  container-section-5 Ends here */
+
+/*CSS footer container-12 start here */
+.container-section-footer {
+    display: flex;
+    color:white;
+    background-color: rgb(31, 29, 29);
+    padding: 50px 50px;
+}
+
+/* Subscribtion GO button */
+.button-2{
+    background-color: blue;
+}
+
+/*  container-section-foot */
+
+.container-section-foot{
+    background-color: black;
+    display: flex;
+    color: white;
+    padding: 50px 50px;
+
+}
+.connet-with-us-section{
+    display: flex;
+    padding: 10px 30px;
+}
+.control-is-clearfix{
+    padding: 10px 30px;
+}
+.connect{
+    padding: 10px 30px;
+}
+.subscribe{
+    padding:10px 30px;
+}
+.section {
+    padding: 5px 50px;
+}
